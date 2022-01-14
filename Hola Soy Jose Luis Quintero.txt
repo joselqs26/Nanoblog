@@ -1,3 +1,5 @@
 Hola Soy Jose Luis Quintero
 Quiero convertirme en un desarrollador web con React
+y usar el stack MERN
+para esto también debo aprender Node.js
 Por eso estoy aprendiendo a usar Git :D
