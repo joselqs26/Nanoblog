@@ -1,6 +1,8 @@
-Hola Soy Jose Luis Quintero
+Hola Soy Jose Luis Quintero Sánchez
 Quiero convertirme en un desarrollador web con React
-y usar el stack MERN
-para esto también debo aprender Node.js
+y usar el stack MERN con el Framework Next.js
+Primero debo aprender HTML y CSS
+luego conocer JavaScript y React.js
+también debo aprender Node.js
 Por eso estoy aprendiendo a usar Git :D
 Por algún motivo en su terminal no funciona code
