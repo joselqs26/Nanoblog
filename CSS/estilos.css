@@ -16,6 +16,10 @@ body {
     padding: 0.7rem;
 }
 
+#call-action {
+    font-weight: bold;
+}
+
 #cabecera #tagline {
     font-weight: normal;
     font-size: 0.7em;
