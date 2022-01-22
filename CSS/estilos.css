@@ -13,7 +13,13 @@ body {
     font-weight: bold;
     font-size: 25px;
     margin: 0;
-    padding: 0.7rem;
+    padding: 0.7rem 0.7rem 0.7rem 1rem;
+}
+
+#img {
+    width: 40px;
+    vertical-align: middle;
+    margin: 0 10px;
 }
 
 #call-action {
@@ -37,6 +43,7 @@ body {
 }
 
 #post {
+    background-color: #FFFFFF;
     padding: 1em;
 }
 
