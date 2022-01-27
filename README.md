@@ -3,6 +3,7 @@
 Repositorio de práctica para el curso de Git y GitHub de Platzi
 
 > Siento que realmente este curso me ayudo a crecer como programador y a prepararme para trabajar en la industria del desarrollo
+>
 > **Jose Luis Quintero**
 
 En este curso tuve la oportunidad de conocer todas las opciones de Git y GitHub y conocer el flujo de desarrollo real.
