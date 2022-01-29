@@ -5,3 +5,5 @@ Primero debo aprender HTML y CSS
 luego conocer JavaScript y React.js
 también debo aprender Node.js
 Por eso estoy aprendiendo a usar Git :D
+
+Dentro de Git, el comando rebase sirve para resolver errores 
