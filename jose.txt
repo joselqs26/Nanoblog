@@ -6,4 +6,7 @@ luego conocer JavaScript y React.js
 también debo aprender Node.js
 Por eso estoy aprendiendo a usar Git :D
 
-Dentro de Git, el comando rebase sirve para resolver errores 
+Dentro de Git, el comando rebase sirve para resolver errores
+El comando rebase permite cambiar cual es el commit base 
+de una rama
+Inclusión de línea sobre el funcionamiento de rebase
