@@ -9,4 +9,5 @@ Por eso estoy aprendiendo a usar Git :D
 Dentro de Git, el comando rebase sirve para resolver errores
 El comando rebase permite cambiar cual es el commit base 
 de una rama
-Inclusión de línea sobre el funcionamiento de rebase
+Realizar 2 rebase sucesivamente logra fusionar la 
+historia de 2 ramas
